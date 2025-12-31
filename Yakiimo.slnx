@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/ApplicationCore/ApplicationCore.csproj" Id="4a9da407-0883-4630-b2e3-a94c94156b39" />
+    <Project Path="src/Web/Web.csproj" Id="0f735df0-ff70-4607-8a42-0b95dd5dbfc1" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/UnitTests/UnitTests.csproj" Id="734bcb08-e0ba-4827-9752-328e7fbd0782" />
+  </Folder>
+  <Folder Name="/ソリューション項目/" />
+</Solution>
