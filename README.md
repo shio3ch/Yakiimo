@@ -1,0 +1,2 @@
+# Yakiimo
+.NET Core Application
